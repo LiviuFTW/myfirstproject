@@ -1,5 +1,4 @@
 # myfirstproject
-learning
 #include <iostream> // Header for input/output
 
 int main() { // Main function
