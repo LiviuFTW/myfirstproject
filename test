@@ -1,0 +1,6 @@
+#include <iostream> // Header for input/output
+
+int main() { // Main function
+    std::cout << "Primul program"; // Output statement
+    return 0; // Return statement
+}
